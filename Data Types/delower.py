@@ -1,0 +1,2 @@
+name = "delower"
+print(name)
