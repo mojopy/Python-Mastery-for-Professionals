@@ -1,0 +1,25 @@
+1.  GET- GET method is used to retrieve information
+         from the given server using a given URI.
+
+
+2.  POST- POST request method requests that a web server
+          accepts the data enclosed in the body of the request message,
+          most likely for storing it.
+
+
+3.  OUT- The PUT method requests that the enclosed entity
+         be stored under the supplied URI. If the URI refers
+         to an already existing resource, it is modified and
+         if the URI does not point to an existing resource,
+         then the server can create the resource with that URI.
+
+
+4.  DELETE- The DELETE method deletes the specified resource.
+
+
+5.  HEAD- The HEAD method asks for a response identical to that of a GET request,
+          but without the response body.
+          
+
+6.  PATCH- It is used for modify capabilities. The PATCH request only needs
+           to contain the changes to the resource, not the complete resource.
