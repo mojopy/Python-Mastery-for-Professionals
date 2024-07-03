@@ -3,6 +3,7 @@ from fastapi import Depends, FastAPI
 #from .dependencies import get_query_token, get_token_header
 
 from .pathParameters import ppitems
+from .queryParameters import qparam
 from .internal import admin
 from .biggerApplicationMultipleFiles import items, users
 
@@ -10,6 +11,8 @@ from .biggerApplicationMultipleFiles import items, users
 app = FastAPI()
 
 app.include_router(ppitems.router)
+app.include_router(qparam.router)
+
 app.include_router(users.router)
 app.include_router(items.router)
 
