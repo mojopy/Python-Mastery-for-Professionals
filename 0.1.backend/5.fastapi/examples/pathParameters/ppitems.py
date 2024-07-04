@@ -11,7 +11,7 @@ async def read_item(item_id):
     return {"item_id": item_id}
 
 @router.get("/int/{item_id}")
-async def read_item(item_id: int):
+async def read_item_id(item_id: int):
     return {"item_id": item_id}
 
 
