@@ -1,9 +1,11 @@
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
+from kivy.core.window import Window
 
 class MyBoxLayoutApp(App):
     def build(self):
+        Window.clearcolor = (1, 1, 1, 1)
         # Create a BoxLayout with vertical orientation
         layout = BoxLayout(orientation='vertical', spacing=10, padding=[20, 10, 20, 10])
         
