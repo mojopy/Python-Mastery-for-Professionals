@@ -1,9 +1,9 @@
 ## class
 ## Objects
-## Constructors and Destructors
+## Constructors, __init__ method,
+## Destructors
 ## The __str__() Function
 ## doc string
-## init
 ## inheritance
 ## Single Inheritance
 ## Multiple Inheritance
