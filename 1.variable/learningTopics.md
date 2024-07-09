@@ -8,3 +8,5 @@
 ## Dynamic Typing
 ## Type Conversion (Casting)
 ## None Type
+## Variable Scope
+## Global Variables
