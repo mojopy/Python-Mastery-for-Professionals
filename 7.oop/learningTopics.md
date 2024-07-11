@@ -1,7 +1,9 @@
 ## 1. class
 ### defining a class
-### The __str__() Function
 ### Methods and Class Methods
+### Data Class
+### Enum Class
+### Nested Classes
 ## 2. Objects
 ### Creating Objects
 ### Accessing Attributes
