@@ -1,7 +1,6 @@
 ## 1. class
 ### defining a class
 ### Methods and Class Methods
-### Data Class
 ### Enum Class
 ### Nested Classes
 
@@ -12,6 +11,7 @@
 ### self parameter
 ### class variable vs Instance Variable
 ### static Method
+### Data Class
 
 ## 3.Constructors
 ### The __init__() Function
