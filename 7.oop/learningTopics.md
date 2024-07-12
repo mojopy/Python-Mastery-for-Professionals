@@ -4,6 +4,7 @@
 ### Data Class
 ### Enum Class
 ### Nested Classes
+
 ## 2. Objects
 ### Creating Objects
 ### Accessing Attributes
@@ -11,6 +12,7 @@
 ### self parameter
 ### class variable vs Instance Variable
 ### static Method
+
 ## 3.Constructors
 ### The __init__() Function
 ### Destructors
@@ -21,29 +23,34 @@
 ### The super() Function
 ### Single Inheritance
 ### Multiple Inheritance
+
 ## 5. Encapsulation
 ### public, private, and protected members
 ### Name Mangling
 ### Getters and Setters
+
 ## 6. Polymorphism
 ### Method Overriding
 ### Method Overloading
 ### Polymorphic Functions
-## 7. Decorators
+
+## 7. Abstraction
+### Abstract classes
+### Abstract methods
+
+## 8. Decorators
 ### Function Decorators
 ### Class Decorators
 ### Property Decorators
-## 8. Composition and Aggregation
+## 9. Composition and Aggregation
 ### Composition
 ### Aggregation
 ### Inheritance vs Composition
-## 9. Metaclasses
+
+## 10. Metaclasses
 ### Defining a Metaclass
 ### Metaclass Attributes
 ### using Metaclasses
-## 10. Abstraction
-### Abstract classes
-### Abstract methods
 
 ## 11. Special Methods
 ### __str__()
