@@ -1,3 +1,4 @@
+## Variable Equality and Identity
 | **Operator** | **Description**                         | **Example**           |
 |--------------|-----------------------------------------|-----------------------|
 | `+`          | Concatenates two lists                  | `list1 + list2`       |

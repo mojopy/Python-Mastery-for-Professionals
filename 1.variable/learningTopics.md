@@ -8,3 +8,19 @@
 ## Dynamic Typing
 ## Type Conversion (Casting)
 ## None Type
+## Variable Scope
+## Local Scope
+## Enclosing Scope
+## Global Scope
+## Built-in Scope
+## Lifetime of a Variable
+## Constant
+## Pass by Value vs. Pass by Reference
+## Variable vs References
+## Unpacking Variables
+## Type Annotations
+## Variable Shadowing
+## Memory Management
+## Variable Encapsulation
+## address
+## Type Hints
