@@ -2,7 +2,7 @@
 ### defining a class
 ### Methods and Class Methods
 ### Enum Class
-### Nested Classes
+### Inner/nested classes And Outer Class
 
 ## 2. Objects
 ### Creating Objects
@@ -42,6 +42,7 @@
 ### Function Decorators
 ### Class Decorators
 ### Property Decorators
+
 ## 9. Composition and Aggregation
 ### Composition
 ### Aggregation
