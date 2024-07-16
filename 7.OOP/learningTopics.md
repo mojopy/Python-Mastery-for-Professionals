@@ -28,6 +28,7 @@
 ### public, private, and protected members
 ### Name Mangling
 ### Getters and Setters
+### static methods
 
 ## 6. Polymorphism
 ### Method Overriding
