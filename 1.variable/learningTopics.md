@@ -22,5 +22,6 @@
 ## Variable Shadowing
 ## Memory Management
 ## Variable Encapsulation
+## public, protected and private variables
 ## address
 ## Type Hints
