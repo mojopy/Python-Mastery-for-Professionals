@@ -10,7 +10,6 @@
 ### Modifying Attributes
 ### self parameter
 ### class variable vs Instance Variable
-### static Method
 ### Data Class
 
 ## 3.Constructors
