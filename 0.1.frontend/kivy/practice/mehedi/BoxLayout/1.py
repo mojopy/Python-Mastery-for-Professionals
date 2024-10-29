@@ -8,7 +8,7 @@ class FirstApp(App):
 
         a = Button(text="Hi")
         b = Button(text="Hello")
-        c = Button(text="ok")
+        c = Button(text="o")
 
         layout.add_widget(a)
         layout.add_widget(b)
