@@ -22,6 +22,7 @@ class Enemy:
     def set_life(self, new_life):
         self.life = new_life
 
+
 class MyApp(App):
     def build(self):
         self.enemy = Enemy()

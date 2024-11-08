@@ -6,7 +6,9 @@ from kivy.uix.button import Button
 class SizeGridLayoutApp(App):
     def build(self):
         # Create a GridLayout with 3 columns and 2 rows
-        layout = GridLayout(cols=3, row_force_default=True, row_default_height=40, col_force_default=True, col_default_width=100)
+        layout = GridLayout(cols=3, row_force_default=True,
+        row_default_height=40, col_force_default=True,
+        col_default_width=100)
 
         # Add widgets to the layout
         layout.add_widget(Label(text='Label 1'))

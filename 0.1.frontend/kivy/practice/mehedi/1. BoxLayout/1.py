@@ -1,14 +1,14 @@
-from kivy.app import App
+from kivy.app import App 
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 
 class FirstApp(App):
-    def build(self):
+    def build (self):
         layout = BoxLayout(orientation='horizontal')
 
-        a = Button(text="Hi")
-        b = Button(text="Hello")
-        c = Button(text="ok")
+        a = Button(text='Hi')
+        b = Button(text='Hello')
+        c = Button(text='Ok')
 
         layout.add_widget(a)
         layout.add_widget(b)
