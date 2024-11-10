@@ -6,7 +6,8 @@ from kivy.uix.screenmanager import ScreenManager, Screen, SlideTransition, FadeT
 class MainScreen(Screen):
     def __init__(self, **kwargs):
         super(MainScreen, self).__init__(**kwargs)
-        self.add_widget(Button(text='Go to Second Screen', on_press=self.change_screen))
+        self.add_widget(Button(text='Go to Second Screen',
+                               on_press=self.change_screen))
 
     def change_screen(self, *args):
         self.manager.transition = SlideTransition(direction="left")
@@ -15,7 +16,8 @@ class MainScreen(Screen):
 class SecondScreen(Screen):
     def __init__(self, **kwargs):
         super(SecondScreen, self).__init__(**kwargs)
-        self.add_widget(Button(text='Go To to Third Screen', on_press=self.change_screen))
+        self.add_widget(Button(text='Go to Third Screen',
+                               on_press=self.change_screen))
 
     def change_screen(self, *args):
         self.manager.transition = FadeTransition()
@@ -24,7 +26,8 @@ class SecondScreen(Screen):
 class ThirdScreen(Screen):
     def __init__(self, **kwargs):
         super(ThirdScreen, self).__init__(**kwargs)
-        self.add_widget(Button(text='Back to Main Screen with Swap', on_press=self.change_screen))
+        self.add_widget(Button(text='Back to Main Screen with Swap',
+                               on_press=self.change_screen))
 
     def change_screen(self, *args):
         self.manager.transition = SwapTransition()

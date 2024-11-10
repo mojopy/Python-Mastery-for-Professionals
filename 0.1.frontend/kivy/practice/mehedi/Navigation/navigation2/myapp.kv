@@ -1,0 +1,17 @@
+<HomeScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Home Screen'
+        Button:
+            text: 'Go to Profile'
+            on_press: app.root.current = 'profile'
+
+<ProfileScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Profile Screen'
+        Button:
+            text: 'Back to Home'
+            on_press: app.root.current = 'home'

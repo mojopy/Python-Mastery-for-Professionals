@@ -1,0 +1,53 @@
+<HomeScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Home Screen'
+        BoxLayout:
+            size_hint_y: None
+            height: '50dp'
+            Button:
+                text: 'Home'
+                on_press: app.root.current = 'home'
+            Button:
+                text: 'Profile'
+                on_press: app.root.current = 'profile'
+            Button:
+                text: 'Settings'
+                on_press: app.root.current = 'settings'
+
+<ProfileScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Profile Screen'
+        BoxLayout:
+            size_hint_y: None
+            height: '50dp'
+            Button:
+                text: 'Home'
+                on_press: app.root.current = 'home'
+            Button:
+                text: 'Profile'
+                on_press: app.root.current = 'profile'
+            Button:
+                text: 'Settings'
+                on_press: app.root.current = 'settings'
+
+<SettingsScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Settings Screen'
+        BoxLayout:
+            size_hint_y: None
+            height: '50dp'
+            Button:
+                text: 'Home'
+                on_press: app.root.current = 'home'
+            Button:
+                text: 'Profile'
+                on_press: app.root.current = 'profile'
+            Button:
+                text: 'Settings'
+                on_press: app.root.current = 'settings'

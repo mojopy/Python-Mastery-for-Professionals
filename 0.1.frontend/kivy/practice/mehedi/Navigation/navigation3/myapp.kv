@@ -1,0 +1,20 @@
+<HomeScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        TextInput:
+            id: input_text
+            hint_text: 'Enter your name'
+        Button:
+            text: 'Send to Profile Screen'
+            on_press: root.send_data()
+            on_release: app.root.current = 'profile'
+
+<ProfileScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            id: display_label
+            text: 'No data received'
+        Button:
+            text: 'Back to Home'
+            on_press: app.root.current = 'home'
