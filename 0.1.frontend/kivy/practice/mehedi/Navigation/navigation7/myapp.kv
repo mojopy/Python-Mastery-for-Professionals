@@ -1,0 +1,17 @@
+<HomeScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Home Screen'
+        Button:
+            text: 'Go to Settings with Card Transition'
+            on_press: app.root.current = 'settings'
+
+<SettingsScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: 'Settings Screen'
+        Button:
+            text: 'Back to Home with Card Transition'
+            on_press: app.root.current = 'home'
