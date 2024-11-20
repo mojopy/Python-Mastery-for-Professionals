@@ -1,0 +1,3 @@
+ffpyplayer==4.5.2
+Kivy==2.3.0
+pillow==10.4.0
