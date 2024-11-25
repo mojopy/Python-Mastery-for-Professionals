@@ -23,30 +23,30 @@
 ### Single Inheritance
 ### Multiple Inheritance
 
-## 5. Encapsulation
-### public, private, and protected members
-### Name Mangling
-### Getters and Setters
-### static methods
+## 5. Composition and Aggregation
+### Composition
+### Aggregation
+### Inheritance vs Composition
 
-## 6. Polymorphism
-### Method Overriding
-### Method Overloading
-### Polymorphic Functions
+## 6. Decorators
+### Function Decorators
+### Class Decorators
+### Property Decorators
 
 ## 7. Abstraction
 ### Abstract classes
 ### Abstract methods
 
-## 8. Decorators
-### Function Decorators
-### Class Decorators
-### Property Decorators
+## 8. Polymorphism
+### Method Overriding
+### Method Overloading
+### Polymorphic Functions
 
-## 9. Composition and Aggregation
-### Composition
-### Aggregation
-### Inheritance vs Composition
+## 9. Encapsulation
+### public, private, and protected members
+### Name Mangling
+### Getters and Setters
+### static methods
 
 ## 10. Metaclasses
 ### Defining a Metaclass
