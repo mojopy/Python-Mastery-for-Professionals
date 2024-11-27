@@ -1,3 +1,6 @@
+# Level 0
+1. scratch
+2. turtle
 # Level 1
 1. Python Introduction
 2. Introduction about variable
@@ -28,7 +31,7 @@
 27. Design Patterns
 
 # Level 2
-Python object oriented programming
+1. Python OOP
 
 # Level 3
 1. Kivy
@@ -36,6 +39,8 @@ Python object oriented programming
 3. pygame
 4. Python Mastery for professionals
 5. FastAPI
+6. Hackerrank 116
+7. Leet code
 
 # Level 4
 1. numpy
