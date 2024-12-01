@@ -32,14 +32,14 @@
 
 # Level 2 Commited Developer
 1. Python OOP
+2. Hackerrank python preperation
 
 # Level 3 Professional Developer
 1. Kivy
 2. Python Mastery for professionals
-3. Hackerrank python preperation
-4. pygame
-5. FastAPI
-6. Leetcode
+3. pygame
+4. FastAPI
+5. Leetcode
 #### Level 3 Additional Secondery Knowledge :
  * Tkinter
  * PyQt5
