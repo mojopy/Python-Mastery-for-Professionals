@@ -1,11 +1,11 @@
-import turtle
-trt = turtle.Turtle()
+from turtle import *
 
-trt.forward(50)
-trt.left(90)
-trt.forward(100)
-trt.right(90)
-trt.forward(100)
-trt.circle(50)
 
-turtle.done()
+forward(50)
+left(90)
+forward(100)
+right(90)
+forward(100)
+circle(50)
+
+done()
