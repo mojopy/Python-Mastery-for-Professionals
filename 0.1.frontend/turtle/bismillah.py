@@ -1,7 +1,5 @@
-import turtle
+from turtle import *
 
-x = turtle.Turtle()
+forward(100)
 
-x.forward(100)
-
-turtle.done()
+done()
