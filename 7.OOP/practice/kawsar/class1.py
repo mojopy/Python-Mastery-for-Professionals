@@ -1,14 +1,12 @@
-class Id:
-    name = ""
-    roll = ""
+class parent:
+    def func1(self):
+        print("This is a parent class.")
 
-    def __init__(self,name, roll):
-        self.name = name
-        self.roll = roll
 
-    def myself(self):
-        return f"my name is {self.name} and {self.roll}."
-    
+class child (parent):
+    def func2(self):
+        print("This is a child class.")
 
-id = Id("kawsar",3)
-print(id.myself())
+object = child()
+object.func1()
+object.func2()
