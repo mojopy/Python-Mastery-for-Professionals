@@ -2,7 +2,7 @@ from turtle import Turtle, done
 
 my_turtle = Turtle()
 
-face_color = "yellow"
+face_color = "blue"
 circle_size = 120
 
 my_turtle.color(face_color)
