@@ -1,12 +1,13 @@
-import turtle
+from turtle import *
 
 favorite_color = "blue"
 
-t = turtle.Turtle()
+t = Turtle()
 t.color(favorite_color)
 
 distance = 100
 
 t.forward(distance)
 
-turtle.done()
+done()
+
