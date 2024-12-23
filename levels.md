@@ -1,6 +1,7 @@
-# Level 0 for kitds
+# Level 0 for kids
 1. scratch
 2. turtle
+
 # Level 1 Getting Started
 1. Python Introduction
 2. Introduction about variable
@@ -29,21 +30,24 @@
 25. build in functions
 26. python standard library
 27. Design Patterns
+** Functional Programming
+** Hackerrank python preperation
 
 # Level 2 Commited Developer
 1. Python OOP
-2. Hackerrank python preperation
+2. Leetcode
+3. Python Mastery for professionals
 
 # Level 3 Professional Developer
 1. Kivy
-2. Python Mastery for professionals
+2. FastAPI
 3. pygame
-4. FastAPI
-5. Leetcode
+4. Flet
 #### Level 3 Additional Secondery Knowledge :
  * Tkinter
  * PyQt5
  * pyscript
+ * Flask
 
 # Level 4 Proficient Programmer
 1. numpy
@@ -58,8 +62,7 @@
 10. Label Studio
 11. SuperAnnotate
 12. Roboflow
-13. Flask
-14. Django
+13. Django
 #### Level 4 Additional Secondery Knowledge :
 
 # Level 5
